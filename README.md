@@ -1,6 +1,6 @@
 ## Hi!!! Welcome to my page...
 
-I am Sumit Pandey, Bachelors in Applied Electronics and Instrumentation from Dehradun Institute of Technology, India. Currently a Masters sdtudent at Chang Gung University, Taiwan. During my bachelors,I worked on Decentralized Autonomous Systems. Your papers inspired us and we ended up developing a swarm system for 3-D terrain mapping [YouTube video of project](https://www.youtube.com/watch?v=9w5TKyjvjeo)
+I am Sumit Pandey, Bachelors in Applied Electronics and Instrumentation from Dehradun Institute of Technology, India. Currently a Masters sdtudent at Chang Gung University, Taiwan. During my bachelors, I worked on Decentralized Autonomous Systems, We developed a swarm system for 3-D terrain mapping [YouTube video of project](https://www.youtube.com/watch?v=9w5TKyjvjeo).
 
 
 
