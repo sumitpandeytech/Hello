@@ -1,6 +1,6 @@
 ## Hi!!! Welcome to my page...
 
-I am Sumit Pandey, Bachelors in Applied Electronics and Instrumentation from Dehradun Institute of Technology, India. Currently a Masters student at [Chang Gung University, Taiwan](http://www.cgu.edu.tw/bin/home.php?Lang=en), under the supervision of [Prof. Cher Ming Tan] (http://chermingtan.com/) 
+I am Sumit Pandey, Bachelors in Applied Electronics and Instrumentation from Dehradun Institute of Technology, India. Currently a Masters student at [Chang Gung University, Taiwan](http://www.cgu.edu.tw/bin/home.php?Lang=en), under the supervision of [Prof. Cher Ming Tan](http://chermingtan.com/) 
 - Currently I am working on two projects: 
   - **Pulse Oximeter Development.**   
   - **Optimal Maintenance Strategy on Medical Instruments used for Haemodialysis Process.** 
