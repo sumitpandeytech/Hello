@@ -1,8 +1,12 @@
 ## Hi!!! Welcome to my page...
 
 I am Sumit Pandey, Bachelors in Applied Electronics and Instrumentation from Dehradun Institute of Technology, India. Currently a Masters student at Chang Gung University, Taiwan. 
-
+- Currently I am working on two projects: 
+  - Advanced Pulse Oximeter Development.   
+  - Optimal Maintenance Strategy on Medical Instruments used for Haemodialysis Process. 
+  
 - During my bachelors, I worked on Decentralized Autonomous swarm System, for 3-D terrain mapping [YouTube video](https://www.youtube.com/watch?v=9w5TKyjvjeo).
+
 
 
 
